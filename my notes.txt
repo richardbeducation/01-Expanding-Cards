@@ -1,0 +1,13 @@
+Expanding cards
+
+style the panels with a background image and heading
+
+flex blocks to align averything
+
+JS so when the usr clicks a panel it becomes active and expands
+
+JSA event listeners
+
+CSS transitions for smooth transitions
+background images and headings
+
